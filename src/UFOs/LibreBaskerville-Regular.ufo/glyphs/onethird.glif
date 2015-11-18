@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onethird" format="1">
+  <advance width="673"/>
+  <unicode hex="2153"/>
+  <outline>
+    <contour>
+      <point x="632" y="770" type="line"/>
+      <point x="584" y="770" type="line"/>
+      <point x="31" y="0" type="line"/>
+      <point x="88" y="0" type="line"/>
+    </contour>
+    <component base="onesuperior" xOffset="72"/>
+    <component base="threeinferior" xOffset="337"/>
+  </outline>
+</glyph>

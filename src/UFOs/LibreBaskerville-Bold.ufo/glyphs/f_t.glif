@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_t" format="1">
+  <advance width="774"/>
+  <outline>
+    <contour>
+      <point x="490" y="475" type="line"/>
+      <point x="490" y="112" type="line" smooth="yes"/>
+      <point x="490" y="35"/>
+      <point x="544" y="-10"/>
+      <point x="636" y="-10" type="curve" smooth="yes"/>
+      <point x="704" y="-10"/>
+      <point x="750" y="15"/>
+      <point x="768" y="61" type="curve"/>
+      <point x="747" y="90" type="line"/>
+      <point x="733" y="65"/>
+      <point x="715" y="54"/>
+      <point x="688" y="54" type="curve" smooth="yes"/>
+      <point x="646" y="54"/>
+      <point x="629" y="86"/>
+      <point x="629" y="168" type="curve" smooth="yes"/>
+      <point x="629" y="475" type="line"/>
+      <point x="744" y="475" type="line"/>
+      <point x="744" y="530" type="line"/>
+      <point x="629" y="530" type="line"/>
+      <point x="629" y="651" type="line"/>
+      <point x="578" y="651" type="line"/>
+      <point x="556" y="590"/>
+      <point x="484" y="530"/>
+      <point x="417" y="530" type="curve"/>
+      <point x="417" y="475" type="line"/>
+    </contour>
+    <component base="f"/>
+  </outline>
+</glyph>

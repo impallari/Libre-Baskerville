@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oneeighth" format="1">
+  <advance width="715"/>
+  <unicode hex="215B"/>
+  <outline>
+    <contour>
+      <point x="679" y="770" type="line"/>
+      <point x="608" y="770" type="line"/>
+      <point x="28" y="0" type="line"/>
+      <point x="108" y="0" type="line"/>
+    </contour>
+    <component base="onesuperior" xOffset="85"/>
+    <component base="eightinferior" xOffset="364"/>
+  </outline>
+</glyph>
