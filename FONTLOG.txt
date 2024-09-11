@@ -19,6 +19,17 @@ To contribute to the project contact Pablo Impallari at impallari@gmail.com
 
 ChangeLog
 
+WIP - Sept 2024 (Pablo Impallari) Libre Baskerville v1.x
+- Imported and modernized legacy 9 years old UFO sources.
+- Both masters are now compatible, the old ones were independent from each other.
+- Modernized and Fixed lots of old non-standard anchors and components, and reviewed and fixed diacritics alignments.
+- Reviewed & improved /caron and /dot related diacritics
+- Expanded the Latin charset
+- Redraw lowercase /germandbls and added uppercase /Germandbls
+- Reviewed & improved /bar and /slash and /stroke related diacritics
+- Added AfricanPri charset
+- Charsey increased from 470 to 857 glyphs
+
 29 Nov 2012 (Pablo Impallari, Rodrigo Fuenzalida) Libre Baskerville v1.0
 - Regular, Italic and Bold styles
 - All ikerned
