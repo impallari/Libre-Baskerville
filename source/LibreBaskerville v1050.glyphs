@@ -2,7 +2,7 @@
 .appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
-"ƲƲʋ"
+B
 );
 axes = (
 {
@@ -2465,9 +2465,6 @@ name = "Bbox Bottom";
 pos = (-238,-270);
 },
 {
-pos = (525,950);
-},
-{
 lockAngle = 1;
 name = "Half x";
 pos = (-212,265);
@@ -2512,7 +2509,7 @@ color = 4;
 glyphname = A;
 kernLeft = KERN_A;
 kernRight = KERN_A;
-lastChange = "2024-09-04 15:48:07 +0000";
+lastChange = "2024-09-11 06:30:13 +0000";
 layers = (
 {
 anchors = (
