@@ -2,7 +2,7 @@
 .appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
-B
+"H⁄H"
 );
 axes = (
 {
