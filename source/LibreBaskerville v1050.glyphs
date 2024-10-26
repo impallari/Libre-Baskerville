@@ -2,7 +2,8 @@
 .appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
-"˙"
+"‘̒ʼ",
+"̦/commaaccentcomb.case"
 );
 axes = (
 {
