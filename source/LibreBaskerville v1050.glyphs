@@ -2,7 +2,7 @@
 .appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
-"Ǻ/ring_acutecomb ǻ"
+"Ŀŀ/periodcentered.loclCAT/periodcentered.loclCAT.case"
 );
 axes = (
 {
@@ -12122,7 +12122,7 @@ unicode = 315;
 color = 4;
 glyphname = Ldot;
 kernRight = KERN_L_1ST;
-lastChange = "2024-09-08 06:18:47 +0000";
+lastChange = "2024-10-27 15:54:50 +0000";
 layers = (
 {
 layerId = m001;
@@ -33334,7 +33334,7 @@ unicode = 316;
 color = 4;
 glyphname = ldot;
 kernLeft = KERN_l_2ND;
-lastChange = "2024-09-04 11:35:32 +0000";
+lastChange = "2024-10-27 15:54:48 +0000";
 layers = (
 {
 anchors = (
