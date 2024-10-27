@@ -2,7 +2,7 @@
 .appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
-"̵̶"
+"ƀꞓǥɨɉꝁᵽɍʉɏƶ"
 );
 axes = (
 {
@@ -12232,9 +12232,22 @@ unicode = 7736;
 {
 color = 4;
 glyphname = Ldoublebar;
-lastChange = "2024-09-07 02:33:41 +0000";
+lastChange = "2024-10-27 20:16:44 +0000";
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(75,491,l),
+(410,491,l),
+(410,437,l),
+(75,437,l)
+);
+}
+);
+};
 guides = (
 {
 angle = 90;
@@ -15302,7 +15315,7 @@ unicode = 222;
 {
 color = 4;
 glyphname = Pstroke;
-lastChange = "2024-09-07 02:33:41 +0000";
+lastChange = "2024-10-27 20:33:57 +0000";
 layers = (
 {
 guides = (
