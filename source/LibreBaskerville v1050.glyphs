@@ -2,8 +2,7 @@
 .appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
-"‘̒ʼ",
-"̧̨̣̤̥̦̭̮̰̱"
+"Ǻ/ring_acutecomb ǻ"
 );
 axes = (
 {
