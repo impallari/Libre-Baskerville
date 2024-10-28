@@ -2336,6 +2336,68 @@ pos = (525,950);
 },
 {
 pos = (128,780);
+},
+{
+lockAngle = 1;
+name = "Bbox Top";
+pos = (-238,970);
+},
+{
+lockAngle = 1;
+name = "Bbox Bottom";
+pos = (-238,-270);
+},
+{
+lockAngle = 1;
+name = "Bbox Bottom";
+pos = (-238,-270);
+},
+{
+lockAngle = 1;
+name = "Half x";
+pos = (-212,265);
+},
+{
+lockAngle = 1;
+name = "Half Cap";
+pos = (-212,385);
+},
+{
+pos = (525,950);
+},
+{
+pos = (128,780);
+},
+{
+lockAngle = 1;
+name = "Bbox Top";
+pos = (-238,970);
+},
+{
+lockAngle = 1;
+name = "Bbox Bottom";
+pos = (-238,-270);
+},
+{
+lockAngle = 1;
+name = "Bbox Bottom";
+pos = (-238,-270);
+},
+{
+lockAngle = 1;
+name = "Half x";
+pos = (-212,265);
+},
+{
+lockAngle = 1;
+name = "Half Cap";
+pos = (-212,385);
+},
+{
+pos = (525,950);
+},
+{
+pos = (128,780);
 }
 );
 id = m001;
@@ -13356,7 +13418,7 @@ color = 4;
 glyphname = Eng;
 kernLeft = KERN_N_2ND;
 kernRight = KERN_N_1ST;
-lastChange = "2024-09-07 16:10:09 +0000";
+lastChange = "2024-10-27 22:39:31 +0000";
 layers = (
 {
 layerId = m001;
@@ -21811,7 +21873,7 @@ unicode = 437;
 {
 color = 4;
 glyphname = Saltillo;
-lastChange = "2024-09-08 05:45:50 +0000";
+lastChange = "2024-10-27 22:32:57 +0000";
 layers = (
 {
 layerId = m001;
