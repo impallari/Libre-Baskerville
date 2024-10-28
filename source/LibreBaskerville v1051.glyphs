@@ -7421,7 +7421,7 @@ unicode = 280;
 {
 color = 4;
 glyphname = Eopen;
-lastChange = "2024-09-10 17:23:35 +0000";
+lastChange = "2024-10-28 16:38:28 +0000";
 layers = (
 {
 background = {
@@ -7470,7 +7470,7 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(568,757,o),
+(570,757,o),
 (522,780,o),
 (438,780,cs),
 (272,780,o),
@@ -7485,7 +7485,7 @@ nodes = (
 (101,67,o),
 (237,-10,o),
 (419,-10,cs),
-(519,-10,o),
+(517,-10,o),
 (576,13,o),
 (656,79,c),
 (679,0,l),
@@ -72160,5 +72160,5 @@ com.typesupply.MetricsMachine4.groupColors = {
 UFOFormat = 2;
 };
 versionMajor = 1;
-versionMinor = 50;
+versionMinor = 51;
 }
