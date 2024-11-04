@@ -6,6 +6,17 @@ It is based on the American Type Founder's Baskerville from 1941, but it has a t
 
 In use Samples at https://impallari.com/revivals/baskerville/
 
+## Whats new in v1.051
+
+- Expanded the Latin charset andd added AfricanPri charset (from 470 to 857 glyphs)
+- Imported and modernized legacy 9 years old UFO sources.
+- Both Regular and Bold masters are now compatible, the old ones were independent from each other.
+- Modernized and Fixed lots of old non-standard anchors and components
+- Reviewed and fixed diacritics alignments.
+- Reviewed & improved /caron and /dot related diacritics
+- Redraw lowercase /germandbls and added uppercase /Germandbls
+- Reviewed & improved /bar and /slash and /stroke related diacritics
+
 ## License
 
 - Libre Baskerville is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
