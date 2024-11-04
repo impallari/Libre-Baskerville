@@ -6,7 +6,7 @@ It is based on the American Type Founder's Baskerville from 1941, but it has a t
 
 In use Samples at https://impallari.com/revivals/baskerville/
 
-## Currently:
+## Currently working in v2.000:
 - Adding the Bold-Italic style so we can release a VariableFont soon
 
 ## Whats new in v1.051 (inside the Legacy folder)
