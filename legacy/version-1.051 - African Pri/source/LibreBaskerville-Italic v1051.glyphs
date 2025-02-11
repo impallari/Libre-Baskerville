@@ -142,6 +142,10 @@ value = "Libre Baskerville is a trademark of Pablo Impallari";
 {
 name = year;
 value = 2012;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2012-11-30 02:57:57 +0000";
