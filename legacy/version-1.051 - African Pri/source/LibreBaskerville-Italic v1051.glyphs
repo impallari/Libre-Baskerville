@@ -1,5 +1,5 @@
 {
-.appVersion = "3260";
+.appVersion = "3337";
 .formatVersion = 3;
 customParameters = (
 {
@@ -46532,8 +46532,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), 
-Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello®rfuenzalida.com), with Reserved Font Name Libre Baskerville.";
+value = "Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville)";
 }
 );
 },
