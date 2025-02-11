@@ -1,5 +1,5 @@
 {
-.appVersion = "3260";
+.appVersion = "3337";
 .formatVersion = 3;
 DisplayStrings = (
 "ɩ ɂ
@@ -152,6 +152,10 @@ value = "Libre Baskerville is a trademark of Pablo Impallari";
 {
 name = year;
 value = 2012;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2012-11-29 14:57:17 +0000";
@@ -2209,7 +2213,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 970;
+value = 1213;
 },
 {
 name = winDescent;
@@ -2461,7 +2465,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 970;
+value = 1213;
 },
 {
 name = winDescent;
@@ -67122,7 +67126,9 @@ axesValues = (
 instanceInterpolations = {
 "A3BC9600-A3C1-44C8-8084-C4BCD6198E54" = 1;
 };
+isBold = 1;
 name = Bold;
+weightClass = 700;
 }
 );
 kerningLTR = {
@@ -71546,8 +71552,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), 
-Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello®rfuenzalida.com), with Reserved Font Name Libre Baskerville.";
+value = "Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville)";
 }
 );
 },
