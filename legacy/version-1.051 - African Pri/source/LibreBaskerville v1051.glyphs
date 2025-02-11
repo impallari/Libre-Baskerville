@@ -67122,7 +67122,9 @@ axesValues = (
 instanceInterpolations = {
 "A3BC9600-A3C1-44C8-8084-C4BCD6198E54" = 1;
 };
+isBold = 1;
 name = Bold;
+weightClass = 700;
 }
 );
 kerningLTR = {
