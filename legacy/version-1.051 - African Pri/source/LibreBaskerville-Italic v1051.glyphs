@@ -9804,7 +9804,7 @@ color = 4;
 glyphname = Lcaron;
 kernLeft = KERN_I_2ND;
 kernRight = KERN_L_1ST;
-lastChange = "2024-10-24 01:26:11 +0000";
+lastChange = "2025-02-11 17:11:37 +0000";
 layers = (
 {
 layerId = m001;
@@ -9813,8 +9813,8 @@ shapes = (
 ref = L;
 },
 {
-pos = (8,0);
-ref = caron.case;
+pos = (413,0);
+ref = caroncomb.alt;
 }
 );
 width = 702;
