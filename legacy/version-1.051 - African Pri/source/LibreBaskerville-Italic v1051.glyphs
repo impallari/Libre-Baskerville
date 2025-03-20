@@ -1,6 +1,9 @@
 {
-.appVersion = "3260";
+.appVersion = "3337";
 .formatVersion = 3;
+DisplayStrings = (
+""
+);
 customParameters = (
 {
 name = macintoshFONDFamilyID;
@@ -142,6 +145,10 @@ value = "Libre Baskerville is a trademark of Pablo Impallari";
 {
 name = year;
 value = 2012;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2012-11-30 02:57:57 +0000";
@@ -3293,7 +3300,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 970;
+value = 1213;
 },
 {
 name = winDescent;
@@ -9800,7 +9807,7 @@ color = 4;
 glyphname = Lcaron;
 kernLeft = KERN_I_2ND;
 kernRight = KERN_L_1ST;
-lastChange = "2024-10-24 01:26:11 +0000";
+lastChange = "2025-02-11 17:11:37 +0000";
 layers = (
 {
 layerId = m001;
@@ -9809,8 +9816,8 @@ shapes = (
 ref = L;
 },
 {
-pos = (8,0);
-ref = caron.case;
+pos = (413,0);
+ref = caroncomb.alt;
 }
 );
 width = 702;
@@ -40669,6 +40676,79 @@ width = 413;
 unicode = 824;
 },
 {
+category = Mark;
+color = 4;
+glyphname = commaaccentcomb.case;
+lastChange = "2025-02-11 17:19:36 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (10,-10);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(16,-223,o),
+(42,-186,o),
+(42,-143,cs),
+(42,-93,o),
+(19,-64,o),
+(-21,-64,cs),
+(-56,-64,o),
+(-80,-86,o),
+(-80,-117,cs),
+(-80,-145,o),
+(-62,-164,o),
+(-36,-164,cs),
+(-25,-164,o),
+(-16,-161,o),
+(-10,-156,c),
+(-10,-185,o),
+(-30,-209,o),
+(-75,-234,c),
+(-53,-260,l)
+);
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(17,-223,o),
+(43,-176,o),
+(43,-135,cs),
+(43,-94,o),
+(16,-64,o),
+(-23,-64,cs),
+(-56,-64,o),
+(-80,-86,o),
+(-80,-117,cs),
+(-80,-145,o),
+(-62,-164,o),
+(-36,-164,cs),
+(-25,-164,o),
+(-16,-161,o),
+(-10,-156,c),
+(-10,-185,o),
+(-30,-209,o),
+(-75,-234,c),
+(-53,-260,l)
+);
+}
+);
+width = 175;
+}
+);
+subCategory = Nonspacing;
+},
+{
 color = 4;
 glyphname = dieresiscomb.case;
 lastChange = "2024-10-26 21:41:22 +0000";
@@ -43075,78 +43155,6 @@ width = 132;
 }
 );
 unicode = 702;
-},
-{
-color = 4;
-glyphname = commaaccentcomb.case;
-lastChange = "2024-10-24 01:24:17 +0000";
-layers = (
-{
-anchors = (
-{
-name = _bottom;
-pos = (10,-10);
-}
-);
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(16,-223,o),
-(42,-186,o),
-(42,-143,cs),
-(42,-93,o),
-(19,-64,o),
-(-21,-64,cs),
-(-56,-64,o),
-(-80,-86,o),
-(-80,-117,cs),
-(-80,-145,o),
-(-62,-164,o),
-(-36,-164,cs),
-(-25,-164,o),
-(-16,-161,o),
-(-10,-156,c),
-(-10,-185,o),
-(-30,-209,o),
-(-75,-234,c),
-(-53,-260,l)
-);
-}
-);
-};
-layerId = m001;
-shapes = (
-{
-closed = 1;
-nodes = (
-(17,-223,o),
-(43,-176,o),
-(43,-135,cs),
-(43,-94,o),
-(16,-64,o),
-(-23,-64,cs),
-(-56,-64,o),
-(-80,-86,o),
-(-80,-117,cs),
-(-80,-145,o),
-(-62,-164,o),
-(-36,-164,cs),
-(-25,-164,o),
-(-16,-161,o),
-(-10,-156,c),
-(-10,-185,o),
-(-30,-209,o),
-(-75,-234,c),
-(-53,-260,l)
-);
-}
-);
-width = 175;
-}
-);
-unicode = 63171;
 },
 {
 color = 4;
@@ -46532,8 +46540,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), 
-Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello®rfuenzalida.com), with Reserved Font Name Libre Baskerville.";
+value = "Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville)";
 }
 );
 },
