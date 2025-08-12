@@ -21868,7 +21868,7 @@ color = 4;
 glyphname = Zacute;
 kernLeft = KERN_Z_2ND;
 kernRight = KERN_Z_1ST;
-lastChange = "2024-09-03 12:23:46 +0000";
+lastChange = "2025-08-12 19:12:15 +0000";
 layers = (
 {
 layerId = m001;
@@ -21877,8 +21877,8 @@ shapes = (
 ref = Z;
 },
 {
-pos = (239,0);
-ref = grave.case;
+pos = (284,0);
+ref = acute.case;
 }
 );
 width = 770;
@@ -21890,8 +21890,8 @@ shapes = (
 ref = Z;
 },
 {
-pos = (234,0);
-ref = grave.case;
+pos = (296,0);
+ref = acute.case;
 }
 );
 width = 797;

@@ -22,6 +22,7 @@ ChangeLog
 Aug 2025 (Pablo Impallari) Libre Baskerville v2.00
 - Added new Bold Italic
 - AfricanPri Charset
+- A few bug fixes from previous version.
 
 Nov 2024 (Pablo Impallari) Libre Baskerville v1.051
 - Expanded the Latin charset
